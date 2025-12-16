@@ -24,15 +24,15 @@
 
 ---
 
-****🛠️ Tech Stack****
+## 🛠️ Tech Stack
 
-**Core Skills**
+## Core Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,laravel,flutter,)](https://skillicons.dev)
 
-**Backend & Database**
+## Backend & Database
 [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
 
-**Design & Tools**
+## Design & Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github)](https://skillicons.dev)
 
 ---
