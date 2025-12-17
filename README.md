@@ -8,7 +8,6 @@
 ---
 
 ## 🎓 Education
-- **Microskil University** 
 - **University of North Sumatra (USU)**  
 ---
 
