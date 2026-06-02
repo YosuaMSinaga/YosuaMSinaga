@@ -11,16 +11,29 @@
 - **University of North Sumatra (USU)**  
 ---
 
-****Roles & Expertise****
--  **Front-End Developer**  
-  Membuat tampilan responsif dengan fokus pada UI/UX
+##  Roles & Expertise
 
-- **System Analyst**  
-  Analisis kebutuhan sistem, pemodelan UML, ERD, dan dokumentasi sistem
+- **Full-Stack Web Development**  
+  Mengembangkan aplikasi web end-to-end, mulai dari frontend, backend, hingga integrasi database.
 
-- **Data Analyst**  
-  Pengolahan, analisis, dan visualisasi data untuk pengambilan keputusan
+- **System Analysis & Design**  
+  Analisis kebutuhan sistem, perancangan UML, ERD, flowchart, dan dokumentasi teknis.
 
+- **AI Agent Development**  
+  Membangun AI Agent berbasis LLM dengan integrasi tools, workflow otomatis, dan pemrosesan bahasa alami.
+
+- **Data Analysis & Visualization**  
+  Mengolah, menganalisis, dan memvisualisasikan data untuk menghasilkan insight yang mendukung pengambilan keputusan.
+
+- **ETL/Data Pipeline Development**  
+  Merancang dan mengembangkan pipeline data untuk proses ekstraksi, transformasi, validasi, dan loading data.
+
+- **Web Scraping & Data Processing**  
+  Mengumpulkan, membersihkan, dan memproses data dari berbagai sumber web secara otomatis.
+
+- **Database Design & Management**  
+  Merancang, mengelola, dan mengoptimalkan database untuk mendukung performa dan skalabilitas aplikasi.
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -52,9 +65,6 @@
   </a>
   <a href="https://www.instagram.com/yosmns_21" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-<a href="https://youtube.com/@vree_ti?si=K-WUUVaZRD2rtMbJ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
