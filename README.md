@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Yosua Marcelinus Sinaga banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Yosua Marcelinus Sinaga banner" width="65%" />
 </p>
 
 <!-- <h1 align="center">Yosua Marcelinus Sinaga</h1> -->
+<p align="center">
+  Software Engineer • SaaS Builder • IT Support • Data Visualization
+</p>
+
 ---
 
 ## Tech Stack & Tools
