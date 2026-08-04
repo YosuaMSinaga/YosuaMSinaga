@@ -1,4 +1,4 @@
-<h1 align="center"> Yosua Marcelinus Sinaga</h1>
+<h1 align="center">Yosua Marcelinus Sinaga</h1>
 <p align="center">
   <strong>Front-End Developer • System Analyst • Data Analyst</strong><br />
   🎓 University of North Sumatra (USU)
@@ -16,40 +16,23 @@
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
   <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Langflow-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Langflow" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Draw.io-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/Lucidchart-111827?style=for-the-badge&logo=lucid&logoColor=F1592A" alt="Lucidchart" />
+  <img src="https://img.shields.io/badge/DrawSQL-111827?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="DrawSQL" />
+  <img src="https://img.shields.io/badge/MS_Office-111827?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01" alt="MS Office" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
-
----
-
-## 🚀 Roles & Expertise
-
-- **Full-Stack Web Development**  
-  Mengembangkan aplikasi web end-to-end, mulai dari frontend, backend, hingga integrasi database.
-
-- **System Analysis & Design**  
-  Analisis kebutuhan sistem, perancangan UML, ERD, flowchart, dan dokumentasi teknis.
-
-- **AI Agent Development**  
-  Membangun AI Agent berbasis LLM dengan integrasi tools, workflow otomatis, dan pemrosesan bahasa alami.
-
-- **Data Analysis & Visualization**  
-  Mengolah, menganalisis, dan memvisualisasikan data untuk menghasilkan insight yang mendukung pengambilan keputusan.
-
-- **ETL/Data Pipeline Development**  
-  Merancang dan mengembangkan pipeline data untuk proses ekstraksi, transformasi, validasi, dan loading data.
-
-- **Web Scraping & Data Processing**  
-  Mengumpulkan, membersihkan, dan memproses data dari berbagai sumber web secara otomatis.
-
-- **Database Design & Management**  
-  Merancang, mengelola, dan mengoptimalkan database untuk mendukung performa dan skalabilitas aplikasi.
 
 ---
 
