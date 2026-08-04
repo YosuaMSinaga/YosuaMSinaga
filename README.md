@@ -1,16 +1,15 @@
-<h1 align="center">Yosua Marcelinus Sinaga</h1>
 <p align="center">
-  <strong>Front-End Developer • System Analyst • Data Analyst</strong><br />
-  🎓 University of North Sumatra (USU)
+  <img src="./assets/profile-banner.svg" alt="Yosua Marcelinus Sinaga banner" width="100%" />
 </p>
 
+<!-- <h1 align="center">Yosua Marcelinus Sinaga</h1> -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YosuaMSinaga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  Software Engineer • SaaS Builder • IT Support • Data Visualization
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -36,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Contribution
+## GitHub Contribution
 
 <p align="center">
   <picture>
@@ -48,7 +47,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yosuamarcelinussinaga" target="_blank">
