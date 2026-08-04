@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Yosua Marcelinus Sinaga banner" width="65%" />
+  <img src="./assets/banner.svg" alt="Yosua Marcelinus Sinaga banner" width="875" height="361" />
 </p>
 
-<!-- <h1 align="center">Yosua Marcelinus Sinaga</h1> -->
 <p align="center">
   Software Engineer • SaaS Builder • IT Support • Data Visualization
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yosuamarcelinussinaga" target="_blank">LinkedIn</a>
+  ·
+  <a href="https://www.instagram.com/marcelinustwentyone_" target="_blank">Instagram</a>
+  ·
+  <a href="mailto:yosuamarcelinussinaga@gmail.com">Email</a>
 </p>
 
 ---
@@ -43,17 +50,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YosuaMSinaga/YosuaMSinaga/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YosuaMSinaga/YosuaMSinaga/output/pacman-contribution-graph.svg" width="100%">
   </picture>
-</p>
-
----
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yosuamarcelinussinaga" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://www.instagram.com/marcelinustwentyone_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
 </p>
