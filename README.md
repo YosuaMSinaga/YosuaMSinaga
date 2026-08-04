@@ -3,10 +3,6 @@
 </p>
 
 <!-- <h1 align="center">Yosua Marcelinus Sinaga</h1> -->
-<p align="center">
-  Software Engineer • SaaS Builder • IT Support • Data Visualization
-</p>
-
 ---
 
 ## Tech Stack & Tools
