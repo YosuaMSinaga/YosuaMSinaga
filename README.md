@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Yosua Marcelinus Sinaga banner" width="65%" />
+  <img src="./assets/banner.svg" alt="Yosua Marcelinus Sinaga banner" width="65%" />
 </p>
 
 <!-- <h1 align="center">Yosua Marcelinus Sinaga</h1> -->
